@@ -1,4 +1,4 @@
-| Task           | Time required | 
+| Task           | Items | 
 |----------------|---------------|
 | Possible Drawbacks | -      |
 | Type of change   | <ul>
