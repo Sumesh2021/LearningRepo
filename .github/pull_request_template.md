@@ -1,13 +1,13 @@
 | Task           | Time required | 
 |----------------|---------------|
-| ###Possible Drawbacks | -  |
-| ### Type of change   | <ul>
+| Possible Drawbacks | -      |
+| Type of change   | <ul>
 				   <li>- [x]  Bug fix (non-breaking change which fixes an issue)</li>
 				   <li>- [ ]  New feature (non-breaking change which adds functionality)</li>
 				   <li>- [ ]  Breaking change (fix or feature that would cause existing functionality to change)</li>
 				   <li>- [ ]  Docs change / refactoring / dependency upgrade </li>
 				   </ul> |
-| ### Developer's Checklist | <ul>
+|  Developer's Checklist | <ul>
 				   <li>- [ ] I have linked this Pull Request with my Jira Card</li>
 				   <li>- [ ]  I have increased or maintained the existing code coverage</li>
 				   <li>- [ ]  Documentation has been added or updated (if needed)</li>
