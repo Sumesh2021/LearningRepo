@@ -12,7 +12,7 @@ Filling out the template is required. Any pull request that does not include eno
 ### Release Readiness
 
 
-#                              | Comments
+Options                        | Comments
  ------------                  | :-------------
 - [X] Yes ready for release    | 
 - [ ] No                       | 
