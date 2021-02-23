@@ -15,7 +15,7 @@ Filling out the template is required. Any pull request that does not include eno
 Options                        | Comments
  ------------                  | :-------------
 - [X] Yes ready for release    | 
-- [ ] No                       | 
+- [ ] No                       | Before the feature can be released, here are the things to be done: e.g. Ensure presence & turn off this toggle. Or ensure this dependent service is released etc.
     
 
 
