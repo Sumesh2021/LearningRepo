@@ -9,6 +9,14 @@ Filling out the template is required. Any pull request that does not include eno
 ### Possible Drawbacks
 
 
+### Release Readiness
+
+
+#                              | Comments
+ ------------                  | :-------------
+- [X] Yes ready for release    | 
+- [ ] No                       | 
+    
 
 
 ### Type of change
@@ -30,7 +38,6 @@ Filling out the template is required. Any pull request that does not include eno
 - [ ] Does this change impacts SLA or performance
 - [ ] I have run the build locally and my branch build is green
 - [ ] I have run the acceptance tests locally and tests are passing
-- [ ] Is this change release ready
 - [ ] Is Logging & Monitoring added
 - [ ] Does this change have dependency on any other Service release
 
