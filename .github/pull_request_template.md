@@ -4,22 +4,25 @@ Filling out the template is required. Any pull request that does not include eno
 
 ### Describe the Change
 
+---
 -Description of the changes
 
 ### Possible Drawbacks
 
+---
+
+
 
 ### Release Readiness
 
+---
 
-#                              | Comments
-       ------------            | :-------------
-- [X] Yes ready for release    | 
-- [ ] No                       | Before the feature can be released, here are the things to be done: e.g. Ensure presence & turn off this toggle. Or ensure this dependent service is released etc.
-    
-
+- [X] Yes ready for release    
+- [ ] No
 
 ### Type of change
+
+---
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -27,6 +30,8 @@ Filling out the template is required. Any pull request that does not include eno
 - [ ] Docs change / refactoring / dependency upgrade
 
 ### Developer's Checklist
+
+---
 
 - [ ] I have linked this Pull Request with my Jira Card
 - [ ] I have increased or maintained the existing code coverage
@@ -44,4 +49,4 @@ Filling out the template is required. Any pull request that does not include eno
 
 ### Post-merge Checklist
 
-- [ ] The [pipeline](https://console.kumo.expedia.biz/apps/lty-sterling-service-ec2/pipeline/) is good
+---
